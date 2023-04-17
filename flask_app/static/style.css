@@ -1,0 +1,46 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+.table {
+    margin: 0 auto;
+    max-width: fit-content;
+}
+.info {
+    min-width: 300px;
+    text-align: start;
+    padding: 5px;
+    padding-left: 20px;
+}
+.hache {
+    padding: 5px 20px;
+}
+.form {
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    border: 1px solid #adb5bd;
+    border-radius: 3px;
+}
+.all-authors {
+    min-width: 250px;
+}
+.input {
+    margin-bottom: 20px;
+    width: 400px;
+}
+.submit {
+    margin-bottom: 10px;
+}
+.marg-top {
+    margin-top: 10px;
+}
